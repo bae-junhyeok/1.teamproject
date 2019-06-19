@@ -1,0 +1,158 @@
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#headerWrap{
+	height: 484px;
+	background-image: url("../images/view2.png");
+}
+
+#logo {
+	float: left;
+	width: 300px;
+	margin: 0px;
+	padding: 0px;
+	margin-left: 200px;
+	font-weight: bold;
+	color: black;
+	
+}
+#logo a{
+	text-decoration: none;
+}
+a:visited{
+	text-decoration: none;
+	color: black;
+}
+#menu {
+	float: right;
+	width: 650px;
+	margin-right: 50px;
+}
+
+#menu ul {
+	float: right;
+	margin: 0;
+	padding: 60px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	float: left;
+}
+
+#menu a {
+	display: block;
+	padding: 0px 0px 0px 40px;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: 1px 1px 0px rgba(0,0,0,.2);
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+}
+.sub-menu{
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	list-style: none;
+	line-height: normal;
+	
+}
+.sub-menu a{
+	padding: 0px 40px 0px 40px;
+	float: right;
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+}
+.main{
+	marin: 0 auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	width: 986px;
+}
+.main-title{
+	font-size: 30px;
+	margin-left: 20px;
+	margin-top: 30px;
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	
+}
+
+.main ul{
+	margin: 0;
+	padding: 30px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+}
+.main ul ul{
+	padding: 20px 0px 0px 0px;
+	text-align: left;
+	float: right;
+	font-size: 18px;
+	font-weight: bold;
+}
+.main ul ul li{
+	padding-top: 10px;
+}
+
+
+.using{
+
+	border-top: 1px solid black;
+	margin-top: 50px;
+	
+}
+.header-padding{
+	margin-top: 30px;
+	padding: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	color: black;
+	
+}
+.using{
+	
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+}
+.using-header{
+	
+}
+.using-info{
+	
+	margin-right: auto;
+	margin-left: auto;
+	width: 350px;
+	text-align: left;
+	
+}
+summary{
+	height: 80px;
+}
+.info{
+	
+	float: right;
+	background: none;
+}
+
+
+
+
+
+
+
+
+
+

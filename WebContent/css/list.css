@@ -1,0 +1,59 @@
+.list {
+	marin: 0 auto;
+	margin-right: auto;
+	margin-left: auto;
+	width: 986px;
+}
+
+.listTable {
+	marin: 0 auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+table {
+    width: 100%;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+  }
+  th, td {
+    border-bottom: 2px solid #444444;
+    padding: 10px;
+    text-align: center;
+  }
+  thead tr {
+    background-color: #cd7a2d;
+    color: #ffffff;
+  }
+  tbody tr:nth-child(2n) {
+    background-color: #bbdefb;
+  }
+  tbody tr:nth-child(2n+1) {
+    background-color: #e3f2fd;
+  }
+  div.list{
+   margin-top: 50px;
+   margin-bottom: 50px;
+  }
+  table.listTable{
+  	border-radius: 30px;
+  }
+  
+  .t1 tr{
+    background-color:#298A08;
+    color: #ffffff;
+  }
+  
+    .t2 tr{
+    background-color:#08088A;
+    color: #ffffff;
+  }
+  
+  .t3 tr{
+    background-color:#B40404;
+    color: #ffffff;
+  }
+  
+  
+  
+  
+  
